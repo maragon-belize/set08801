@@ -1,0 +1,54 @@
+/* styles.css */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: #280;
+  color: #fff;
+  padding: 1rem;
+}
+
+nav ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+nav ul li {
+  display: inline;
+  margin-right: 1rem;
+}
+
+main {
+  padding: 2rem;
+}
+
+footer {
+  background-color: #333;
+  color: #fff;
+  text-align: center;
+  padding: 1rem;
+}
+
+#game {
+  margin-top: 2rem;
+}
+
+#feedback {
+  font-weight: bold;
+}
+
+#leaderboard {
+  margin-top: 2rem;
+}
+
+#topScores {
+  list-style-type: none;
+  padding: 0;
+}
+
+#topScores li {
+  margin-bottom: 0.5rem;
+}
